@@ -294,7 +294,7 @@
         <version>3.2.5</version>
         <configuration>
           <argLine>
-            -javaagent:C:/Users/automationOne/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8.jar
+            -javaagent:%USERPROFILE%/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8.jar
         </argLine>
         </configuration>
       </plugin>
